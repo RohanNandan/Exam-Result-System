@@ -1,9 +1,11 @@
 # Exam-Result-System
 This is a simple result system where students can see their updated marks by teachers. This 
 system also stores academic information like SRN, roll number, name, semester, branch, 
-course code, course title, ISA marks, ESA marks, Total marks, Grade, Result (SGPA).The data is stored in a text file using file handling concept in C. 
+course code, course title, ISA marks, ESA marks, Total marks, Grade, Result (SGPA).
 
-The program conatains the following menu
+The data is stored in a text file using file handling concept in C. 
+
+The program conatains the following menus
 
 CLASS RESULT MENU:
 
@@ -32,3 +34,5 @@ ESA marks.
 EXIT MENU:
 
 • This menu terminates the program.
+
+
